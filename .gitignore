@@ -1,6 +1,7 @@
 *.iml
 .idea/.name
 *.xml
+*.txt
 
 # Logs
 logs
